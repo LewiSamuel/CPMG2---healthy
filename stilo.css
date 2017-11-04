@@ -93,7 +93,7 @@ text-align: center;
 }
 
 a{
-	color: initial;
+	color: inherit;
 }
 
 .banner{
